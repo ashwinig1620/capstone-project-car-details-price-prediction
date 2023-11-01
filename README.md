@@ -1,1 +1,1 @@
-# capstone-project-car-price-prediction
+# capstone-project-car-details-price-prediction
